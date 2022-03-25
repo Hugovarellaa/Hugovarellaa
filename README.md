@@ -8,6 +8,8 @@ Me chamo Hugo, tenho 34 anos 😄.
 - 🚀 Fullstack Developer (Reactjs - React Native - NodeJs)
 - 🎓 Faculdade Engenharia de software (2020 - 2024)
 - 🌱 Sempre estudando techs Front-end, Back-end e Mobile
+- 💬 Atualmente estou me especializando em ReactJs e sigo estudando React Native e NodeJs
+
 
 ### 🛠 Techs & Skills
 
@@ -44,3 +46,7 @@ Me chamo Hugo, tenho 34 anos 😄.
 [![image](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/hugo.alves__/)
 [![image](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/hugo.alves.180)
 [![image](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://api.whatsapp.com/send?phone=5561995995970&text=Ola%2C%20Tudo%20bem%3F)
+
+<div>
+  <img src="./Diploma-Rocketseat.jpg">
+</div>
