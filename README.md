@@ -1,9 +1,5 @@
-### 👋 Faala Dev
 
-
-### 👨🏻‍💻 Quem eu sou?
-
-Me chamo Hugo, tenho 34 anos 😄.
+👋 Olá, me chamo Hugo, tenho 34 anos 😄.
 
 - 🚀 Fullstack Developer (Reactjs - React Native - NodeJs)
 - 🎓 Faculdade Engenharia de software (2020 - 2024)
